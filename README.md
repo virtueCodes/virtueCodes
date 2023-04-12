@@ -2,7 +2,6 @@
 <h3 align="center">I'm a front-end web developer</h3>
 <p>I am a frontend developer I have a strong background in creating visually appealing and user-friendly web experiences. I am motivated to find a role where I can challenge myself and provide value to website users. I am excited to bring my knowledge and experience to a team and contribute to a company's success.</p>
 
-View Resumé
 <p align="left"> <a href="https://twitter.com/virtuecodes_" target="blank"><img src="https://img.shields.io/twitter/follow/virtuecodes_?logo=twitter&style=for-the-badge" alt="virtuecodes_" /></a> </p>
 
 - 🔭 I’m from **Nigeria**
